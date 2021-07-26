@@ -3,5 +3,6 @@ RU: Оффициальные ссылки на модули в README.md, эта
 =================LINKS=================
 
 quick.db - https://drive.google.com/file/d/1U47qKNMcudWYZ18LF2RcP2nVv6J9IQg3/view?usp=sharing
+canvas & canvacord - https://drive.google.com/file/d/1qyxtxfZIJEubt_bHX9Axv01BWeRn3HDH/view?usp=sharing
 
 =================LINKS=================
